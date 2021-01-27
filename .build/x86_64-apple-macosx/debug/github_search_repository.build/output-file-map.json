@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/github_search_repository.build/master.swiftdeps"
+  },
+  "/Users/hibikijono/github_search_repository/Sources/github_search_repository/main.swift": {
+    "dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/github_search_repository.build/main.d",
+    "object": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/github_search_repository.build/main.swift.o",
+    "swiftmodule": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/github_search_repository.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/github_search_repository.build/main.swiftdeps"
+  }
+}

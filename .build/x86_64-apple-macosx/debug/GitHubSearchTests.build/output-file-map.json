@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/master.swiftdeps"
+  },
+  "/Users/hibikijono/github_search_repository/Tests/GitHubSearchTests/ExampleJSON.swift": {
+    "dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/ExampleJSON.d",
+    "object": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/ExampleJSON.swift.o",
+    "swiftmodule": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/ExampleJSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/ExampleJSON.swiftdeps"
+  },
+  "/Users/hibikijono/github_search_repository/Tests/GitHubSearchTests/GitHubAPIErrorTests.swift": {
+    "dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/GitHubAPIErrorTests.d",
+    "object": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/GitHubAPIErrorTests.swift.o",
+    "swiftmodule": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/GitHubAPIErrorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/GitHubAPIErrorTests.swiftdeps"
+  },
+  "/Users/hibikijono/github_search_repository/Tests/GitHubSearchTests/GitHubClientTests.swift": {
+    "dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/GitHubClientTests.d",
+    "object": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/GitHubClientTests.swift.o",
+    "swiftmodule": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/GitHubClientTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/GitHubClientTests.swiftdeps"
+  },
+  "/Users/hibikijono/github_search_repository/Tests/GitHubSearchTests/RepositoryTests.swift": {
+    "dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/RepositoryTests.d",
+    "object": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/RepositoryTests.swift.o",
+    "swiftmodule": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/RepositoryTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/RepositoryTests.swiftdeps"
+  },
+  "/Users/hibikijono/github_search_repository/Tests/GitHubSearchTests/SearchResponseTests.swift": {
+    "dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/SearchResponseTests.d",
+    "object": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/SearchResponseTests.swift.o",
+    "swiftmodule": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/SearchResponseTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/SearchResponseTests.swiftdeps"
+  },
+  "/Users/hibikijono/github_search_repository/Tests/GitHubSearchTests/StubHTTPClient.swift": {
+    "dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/StubHTTPClient.d",
+    "object": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/StubHTTPClient.swift.o",
+    "swiftmodule": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/StubHTTPClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/StubHTTPClient.swiftdeps"
+  },
+  "/Users/hibikijono/github_search_repository/Tests/GitHubSearchTests/UserTests.swift": {
+    "dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/UserTests.d",
+    "object": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/UserTests.swift.o",
+    "swiftmodule": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/UserTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearchTests.build/UserTests.swiftdeps"
+  }
+}

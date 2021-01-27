@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "91603805c9402b8b8321b3274ca979d2"
+build_time: [1611368782, 553250000]
+inputs:
+  "/Users/hibikijono/github_search_repository/Tests/GitHubSearchTests/ExampleJSON.swift": [1611368360, 774787691]
+  "/Users/hibikijono/github_search_repository/Tests/GitHubSearchTests/RepositoryTests.swift": [1611333141, 378329200]
+  "/Users/hibikijono/github_search_repository/Tests/GitHubSearchTests/SearchResponseTests.swift": [9223372036, 854775807]
+  "/Users/hibikijono/github_search_repository/Tests/GitHubSearchTests/UserTests.swift": [1611332649, 864735700]

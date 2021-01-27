@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "6c395b051a1bf35b29de6bc3ad0268ab"
+build_time: [1611752948, 982388000]
+inputs:
+  "/Users/hibikijono/github_search_repository/Sources/github_search_repository/main.swift": [1611752948, 295092665]

@@ -1,0 +1,20 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "\/Users\/hibikijono\/github_search_repository\/.build\/x86_64-apple-macosx\/debug\/github_search_repositoryPackageTests.xctest\/Contents\/MacOS\/github_search_repositoryPackageTests",
+      "packageName" : "github_search_repository",
+      "productName" : "github_search_repositoryPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftTargetMap" : {
+    "C.github_search_repository-debug.module" : "github_search_repository",
+    "C.GitHubSearch-debug.module" : "GitHubSearch",
+    "C.GitHubSearchTests-debug.module" : "GitHubSearchTests"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "2205342867560e7a2a2abed9e655a5d9"
+build_time: [1611752851, 978433000]
+inputs:
+  "/Users/hibikijono/github_search_repository/Sources/GitHubSearch/GitHubAPI.swift": [1611752850, 245645038]
+  "/Users/hibikijono/github_search_repository/Sources/GitHubSearch/GitHubAPIError.swift": [1611468410, 218115849]
+  "/Users/hibikijono/github_search_repository/Sources/GitHubSearch/GitHubClient.swift": [1611470814, 11713264]
+  "/Users/hibikijono/github_search_repository/Sources/GitHubSearch/GitHubClientError.swift": [1611369862, 823880979]
+  "/Users/hibikijono/github_search_repository/Sources/GitHubSearch/GitHubRequest.swift": [1611468410, 228604871]
+  "/Users/hibikijono/github_search_repository/Sources/GitHubSearch/HTTPClient.swift": [1611469331, 139008739]
+  "/Users/hibikijono/github_search_repository/Sources/GitHubSearch/HTTPMethod.swift": [1611459271, 209177247]
+  "/Users/hibikijono/github_search_repository/Sources/GitHubSearch/Repository.swift": [1611746260, 529269204]
+  "/Users/hibikijono/github_search_repository/Sources/GitHubSearch/SearchResponse.swift": [1611367864, 495291177]
+  "/Users/hibikijono/github_search_repository/Sources/GitHubSearch/User.swift": [1611748498, 89102086]

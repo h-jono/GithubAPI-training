@@ -1,0 +1,119 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GitHubAPI"
+provides-nominal:
+- "12GitHubSearch0aB3APIC"
+- "12GitHubSearch0aB3APIC0C12RepositoriesV"
+provides-member:
+- ["12GitHubSearch0aB3APIC", ""]
+- ["12GitHubSearch0aB3APIC0C12RepositoriesV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "GitHubAPI"
+- "GitHubRequest"
+- "HTTPMethod"
+- "Repository"
+- "SearchResponse"
+- "String"
+- !private "StringLiteralType"
+- "URLQueryItem"
+- !private "UnicodeScalarType"
+- !private "keyword"
+depends-member:
+- !private ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["SQ", ""]
+- !private ["SQ", "get"]
+- !private ["SQ", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- ["12GitHubSearch0aB3APIC", "GitHubRequest"]
+- ["12GitHubSearch0aB3APIC", "HTTPMethod"]
+- ["12GitHubSearch0aB3APIC", "Repository"]
+- ["12GitHubSearch0aB3APIC", "SearchRepositories"]
+- ["12GitHubSearch0aB3APIC", "SearchResponse"]
+- ["12GitHubSearch0aB3APIC", "String"]
+- ["12GitHubSearch0aB3APIC", "URLQueryItem"]
+- ["12GitHubSearch0aB3APIC", "deinit"]
+- ["12GitHubSearch0aB3APIC", "init"]
+- !private ["12GitHubSearch0aB3APIC", "keyword"]
+- ["12GitHubSearch0aB7RequestP", "Response"]
+- !private ["12GitHubSearch0aB7RequestP", "URLQueryItem"]
+- ["12GitHubSearch0aB7RequestP", ""]
+- ["12GitHubSearch0aB7RequestP", "baseURL"]
+- !private ["12GitHubSearch0aB7RequestP", "keyword"]
+- ["12GitHubSearch0aB7RequestP", "method"]
+- ["12GitHubSearch0aB7RequestP", "path"]
+- ["12GitHubSearch0aB7RequestP", "queryItems"]
+- !private ["12GitHubSearch10HTTPMethodO", "get"]
+- !private ["SH", ""]
+- !private ["SH", "get"]
+- !private ["SH", "init"]
+- !private ["SY", "get"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- ["12GitHubSearch10RepositoryV", ""]
+- ["12GitHubSearch0aB3APIC0C12RepositoriesV", "HTTPMethod"]
+- ["12GitHubSearch0aB3APIC0C12RepositoriesV", "Repository"]
+- ["12GitHubSearch0aB3APIC0C12RepositoriesV", "Response"]
+- ["12GitHubSearch0aB3APIC0C12RepositoriesV", "SearchResponse"]
+- ["12GitHubSearch0aB3APIC0C12RepositoriesV", "String"]
+- ["12GitHubSearch0aB3APIC0C12RepositoriesV", "URLQueryItem"]
+- ["12GitHubSearch0aB3APIC0C12RepositoriesV", ""]
+- ["12GitHubSearch0aB3APIC0C12RepositoriesV", "baseURL"]
+- ["12GitHubSearch0aB3APIC0C12RepositoriesV", "init"]
+- ["12GitHubSearch0aB3APIC0C12RepositoriesV", "keyword"]
+- ["12GitHubSearch0aB3APIC0C12RepositoriesV", "method"]
+- ["12GitHubSearch0aB3APIC0C12RepositoriesV", "path"]
+- ["12GitHubSearch0aB3APIC0C12RepositoriesV", "queryItems"]
+- ["12GitHubSearch0C8ResponseV", ""]
+- !private ["10Foundation12URLQueryItemV", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "12GitHubSearch0aB3APIC"
+- "12GitHubSearch0aB7RequestP"
+- !private "12GitHubSearch10HTTPMethodO"
+- !private "SH"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- "12GitHubSearch10RepositoryV"
+- "12GitHubSearch0aB3APIC0C12RepositoriesV"
+- "12GitHubSearch0C8ResponseV"
+- !private "10Foundation12URLQueryItemV"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/hibikijono/github_search_repository/.build/x86_64-apple-macosx/debug/GitHubSearch.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "dc305543fe098948be9edc3e3e264e8f"
